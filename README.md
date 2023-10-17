@@ -9,10 +9,18 @@
 [![](https://img.shields.io/badge/Gitee-SteveRocket-pink)](https://gitee.com/SteveRocket/)
 ![CTO Plus](https://img.shields.io/badge/微信公众号：CTO%20Plus-8A2BE2) 🥰
 
-<img src="./static/wechat.png" style="width:500px">
+## Contact
 
+![微信公众号](./static/wechat.png)  
+**< 微信公众号 >**
 
-**【代码工程系列】**
+![QQ技术交流群](./static/qq_link.png)  
+**< QQ技术交流群 >**
+
+![联系作者](./static/wechat.jpg)  
+**< 联系作者 >**
+
+## **【代码工程系列】**
 
 * [Python和Go的设计模式](https://github.com/zrf-rocket/DesignPattern)
     * GitHub：https://github.com/zrf-rocket/DesignPattern
@@ -94,8 +102,9 @@
 
 编程语言数据结构（C/CPP、Java、Python、go、JavaScript）。
 
-
-
+- Python 为Python版本的数据结构
+- Go 为Python版本的数据结构
+- JavaScript  为JavaScript（Node.js）版本的数据结构
 
 
 
